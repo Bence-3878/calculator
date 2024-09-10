@@ -4,3 +4,15 @@ body {
     background-color: black;
     text-align: center;
 }
+
+.gombok button{
+    background-color: #5ad665;
+    border: 1px solid black;
+    color: black;
+    font-size: large;
+    margin: 5px;
+    padding: 10px;
+}
+.gombok div{
+    background-color: lightgray;
+}
